@@ -1,1 +1,4 @@
-[View the notebook](Feature%20Creation/my_notebook.ipynb)
+## 📘 Modern Time Series Notebook
+
+You can view the full notebook here:  
+[Modern Time Series.ipynb](Modern%20Time%20Series.ipynb)
